@@ -1,6 +1,5 @@
 {
   "width": 400,
   "height": 200,
-  "fullscreen": false,
-  "main": "./src/index.html"
+  "main": "./docs/index.html"
 }
