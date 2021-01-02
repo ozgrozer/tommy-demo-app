@@ -1,5 +1,5 @@
 {
   "width": 400,
   "height": 200,
-  "main": "./docs/index.html"
+  "main": "./docs/app.html"
 }
